@@ -1,4 +1,4 @@
-# Google Drive on Linux Sync Script
+# Google Drive Sync in Linux Script v3.1
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub followers](https://img.shields.io/github/followers/ugurakcil?label=Follow&style=social)
