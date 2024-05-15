@@ -9,7 +9,8 @@
 **Uğur AKÇIL**
 
 - [GitHub Profile](https://github.com/ugurakcil)
-- [Website](https://www.datasins.com)
+- [Website](https://www.datasins.com) en
+- [Website](https://www.ugurakcil.com) tr
 - [Instagram](https://instagram.com/datasins)
 
 ## Description
