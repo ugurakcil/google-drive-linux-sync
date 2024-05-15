@@ -91,16 +91,14 @@ Restart=always
 WantedBy=multi-user.target
 ```
 
-Enable the service to start on boot:
+Enable the service to start on boot and start the service immediately:
 
 ```sh
+sudo systemctl daemon-reload
 sudo systemctl enable gdrive_sync.service
-```
-
-Start the service immediately:
-
-```sh
 sudo systemctl start gdrive_sync.service
+sudo systemctl status gdrive_sync.service
 ```
+
 
 
