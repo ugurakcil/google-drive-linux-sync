@@ -67,7 +67,7 @@ Make the script executable with the following command:
 chmod +x gdrive_sync.sh
 ```
 
-Step 5: Running the Script as a Service
+### Step 6: Running the Script as a Service
 To ensure the script runs continuously, even after rebooting your system, you can set it up as a systemd service.
 
 ```sh
