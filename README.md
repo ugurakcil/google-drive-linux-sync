@@ -64,7 +64,13 @@ FOLDERS: The names of the folders you want to synchronize
 Make the script executable with the following command:
 
 ```sh
-chmod +x gdrive_sync.sh
+chmod +x gdrive.sh
+```
+
+and try it
+
+```sh
+./gdrive.sh
 ```
 
 ### Step 6: Running the Script as a Service
